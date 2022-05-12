@@ -1,5 +1,7 @@
 # :clapper: AnimaCritic
 
+https://animacritic.herokuapp.com/
+
 ![Build](https://img.shields.io/github/workflow/status/AnimaCritic/AnimaCriticCore/Django%20CI?label=Build)  
 ![Deploy](https://img.shields.io/github/workflow/status/AnimaCritic/AnimaCriticCore/Deploy?label=Deploy)
 
